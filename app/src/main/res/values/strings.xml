@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dicoding-BelajarAsyncTask</string>
+    <string name="status_aplikasi">Status Aplikasi</string>
+    <string name="desc">Description</string>
+</resources>
